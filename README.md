@@ -15,12 +15,12 @@ npm install --save react-datepicker-nepali
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-datepicker-nepali'
+import DatePicker from 'react-datepicker-nepali'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <DatePicker />
     )
   }
 }
