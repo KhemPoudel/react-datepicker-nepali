@@ -20,6 +20,7 @@ class Example extends Component {
     )
   }
 }
+```
 ## Usage
 The most basic usage
 ```jsx
